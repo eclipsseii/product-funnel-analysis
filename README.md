@@ -1,2 +1,2 @@
-# -product-funnel-analysis
+# product-funnel-analysis
 Анализ продуктовой воронки: конверсии между этапами, drop-off, сегменты и поиск проблемного шага
